@@ -11,7 +11,7 @@ The project relies on the following Python libraries:
 - `matplotlib`: Used for creating visualizations.
 - `seaborn`: Built on top of matplotlib, seaborn is used for statistical data visualization.
 
-A YAML file was created for you convenience. Read further for more details.
+A YAML file was created for your convenience. Read further for more details.
 
 ## Setup Instructions
 To set up the project environment and dependencies, follow these steps:
